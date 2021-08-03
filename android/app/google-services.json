@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "527205280373",
+    "firebase_url": "https://sitter-190bb-default-rtdb.firebaseio.com",
+    "project_id": "sitter-190bb",
+    "storage_bucket": "sitter-190bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527205280373:android:262a2e271d647645bc263c",
+        "android_client_info": {
+          "package_name": "com.ebudezain.demo_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527205280373-ihdvsfgvimvtt3jbcsi4944ed411lsnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebudezain.demo_fcm",
+            "certificate_hash": "3e1b73bb51b5af8e3c7951ef9811f166f20108e1"
+          }
+        },
+        {
+          "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIzUkUxibIyf65y0efRcP-X3f8bQqjOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527205280373:android:5a7a91930ca94d33bc263c",
+        "android_client_info": {
+          "package_name": "com.ebudezain.ebudezain_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527205280373-8hb49st0aok54aahcld1mlmm74069bdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebudezain.ebudezain_fcm",
+            "certificate_hash": "3e1b73bb51b5af8e3c7951ef9811f166f20108e1"
+          }
+        },
+        {
+          "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIzUkUxibIyf65y0efRcP-X3f8bQqjOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527205280373:android:d18234d879777109bc263c",
+        "android_client_info": {
+          "package_name": "com.mpv.babysitter.employer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527205280373-4ebvgkf0mu8bmk6vhfdf32r1g89aptiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpv.babysitter.employer",
+            "certificate_hash": "ce0035e64d450fbeb3926f58a20d25a547239943"
+          }
+        },
+        {
+          "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIzUkUxibIyf65y0efRcP-X3f8bQqjOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527205280373:android:e73a5f5691193ee8bc263c",
+        "android_client_info": {
+          "package_name": "com.mpv.babysitter.sitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527205280373-4tc9f73jc1q38q10urq0gtlirhp9rdj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpv.babysitter.sitter",
+            "certificate_hash": "bac61610f3b38d3c482ab0b4aa4c6b7b31429d76"
+          }
+        },
+        {
+          "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIzUkUxibIyf65y0efRcP-X3f8bQqjOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527205280373-81aggk4rjul85l61rdm6gdag5faeu385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

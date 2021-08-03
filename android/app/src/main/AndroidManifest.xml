@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ebudezain.ebudezain_fcm">
    <application
+        android:name="com.ebudezain.ebudezain_fcm.Application"
         android:label="ebudezain_fcm"
         android:icon="@mipmap/ic_launcher">
         <activity
